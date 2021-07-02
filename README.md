@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ibktommy/Interior-Consultant-Web-Design-Challenge">
       Solution
     </a>
     <span> | </span>
@@ -57,8 +57,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 -[HTML](https://html.com/)<br>
-  -[CSS](https://www.w3schools.com/css/css_intro.asp)
-  -[JAVACRIPT]
+  -[CSS](https://www.w3schools.com/css/css_intro.asp) <br>
+  -[JAVACRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Features
 
